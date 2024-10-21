@@ -1,24 +1,24 @@
-# Tugas-DE
+![image](https://github.com/user-attachments/assets/50d4e0cd-0b07-4e47-b479-d2b1ea696bee)# Tugas-DE
 Ini adalah repositori pengumpulan tugas Dasar Elektronika selama 1 Semester.
 
 Berikut cara untuk mengupload file dokumen di GitHub:
 
 # GitHub Desktop
 1. Buka GitHub Desktop
-   ![image](https://github.com/user-attachments/assets/c05e000a-edd8-493d-8ae4-2163288b6608)
+   ![Screenshot 2024-10-21 201941](https://github.com/user-attachments/assets/e74d1e72-cd3a-40fc-afd4-a9407ae2b33f)
 
-2. Kemudian, klik **File** dan pilih **Clone Repository**
-   ![image](https://github.com/user-attachments/assets/67ff37f6-6db3-4f91-a55e-83ccb9666a7f)
+3. Kemudian, klik **File** dan pilih **Clone Repository**
+  ![Screenshot 2024-10-21 200559](https://github.com/user-attachments/assets/550c1ea6-ee64-4c0e-85c9-e7e939c65d8a)
 
-3. Salin link GitHub di Website untuk Clone
-   ![image](https://github.com/user-attachments/assets/846a404c-6882-41d0-a6c2-17be294735ad)
+4. Salin link GitHub di Website untuk Clone
+   ![Screenshot 2024-10-21 200741](https://github.com/user-attachments/assets/fd3949a6-c5e9-437d-ac25-a653206f41c7)
 
-4. Kemudian, paste link GitHub dan pilih tempat untuk menyimpan clone tersebut. Kemudian klik **Clone**
-   ![image](https://github.com/user-attachments/assets/eafaca44-8d31-4eba-8b98-35e50d21d9fc)
+5. Kemudian, paste link GitHub dan pilih tempat untuk menyimpan clone tersebut. Kemudian klik **Clone**
+   ![Screenshot 2024-10-21 200956](https://github.com/user-attachments/assets/ac7416e3-824c-4a45-9882-3b075092ab40)
 
-5. Dan kita lihat folder yang sudah di Clone di Komputer atau Laptop
-   ![image](https://github.com/user-attachments/assets/5554d34e-59dc-43b0-b7b4-79a1851d0e0d)
- 
+6. Dan kita lihat folder yang sudah di Clone di Komputer atau Laptop
+   ![Screenshot 2024-10-21 201818](https://github.com/user-attachments/assets/77b95f28-2ec4-4ecc-bdd8-0d0e1ce6dffa)
+
 # ⚠️ Penting
 1. Anda dapat memasukkan file dari folder yang sudah di Clone di Komputer atau Laptop.
 2. Jangan melakukan Clone Repository lagi apabila sudah di Clone sebelumnya.
