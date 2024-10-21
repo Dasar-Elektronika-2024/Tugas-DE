@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/50d4e0cd-0b07-4e47-b479-d2b1ea696bee)# Tugas-DE
+# Tugas-DE
 Ini adalah repositori pengumpulan tugas Dasar Elektronika selama 1 Semester.
 
 Berikut cara untuk mengupload file dokumen di GitHub:
