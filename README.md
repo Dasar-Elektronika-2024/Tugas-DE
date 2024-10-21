@@ -5,19 +5,19 @@ Berikut cara untuk mengupload file dokumen di GitHub:
 
 # GitHub Desktop
 1. Buka GitHub Desktop
-   ![Screenshot 2024-10-21 201941](https://github.com/user-attachments/assets/e74d1e72-cd3a-40fc-afd4-a9407ae2b33f)
+![Screenshot 2024-10-21 201941](https://github.com/user-attachments/assets/004e3879-2f5f-4275-bb48-f468a2d14981)
 
-3. Kemudian, klik **File** dan pilih **Clone Repository**
-  ![Screenshot 2024-10-21 200559](https://github.com/user-attachments/assets/550c1ea6-ee64-4c0e-85c9-e7e939c65d8a)
+2. Kemudian, klik **File** dan pilih **Clone Repository**
+![Screenshot 2024-10-21 200559](https://github.com/user-attachments/assets/e61951a7-8bdf-4a1e-af4c-2ff190e65f9f)
 
-4. Salin link GitHub di Website untuk Clone
-   ![Screenshot 2024-10-21 200741](https://github.com/user-attachments/assets/fd3949a6-c5e9-437d-ac25-a653206f41c7)
+3. Salin link GitHub dari Website untuk Clone
+![Screenshot 2024-10-21 200741](https://github.com/user-attachments/assets/9330af60-ee02-498c-93d7-70745ebf20dd)
 
-5. Kemudian, paste link GitHub dan pilih tempat untuk menyimpan clone tersebut. Kemudian klik **Clone**
-   ![Screenshot 2024-10-21 200956](https://github.com/user-attachments/assets/ac7416e3-824c-4a45-9882-3b075092ab40)
+4. Kemudian, paste link GitHub dan pilih tempat untuk menyimpan clone tersebut. Kemudian klik **Clone**
+![Screenshot 2024-10-21 200956](https://github.com/user-attachments/assets/e5d541b2-5f6e-44b3-9b17-501bc0ca7c7f)
 
-6. Dan kita lihat folder yang sudah di Clone di Komputer atau Laptop
-   ![Screenshot 2024-10-21 201818](https://github.com/user-attachments/assets/77b95f28-2ec4-4ecc-bdd8-0d0e1ce6dffa)
+5. Dan kita lihat folder yang sudah di Clone di Komputer atau Laptop
+![Screenshot 2024-10-21 201818](https://github.com/user-attachments/assets/949fd8ed-12f1-4565-9192-204fef106a94)
 
 # ⚠️ Penting
 1. Anda dapat memasukkan file dari folder yang sudah di Clone di Komputer atau Laptop.
